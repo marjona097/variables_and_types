@@ -4,7 +4,5 @@ a=24
 b=3
 # Assign 5 (int value) to 'c' variable;
 c=5
-# Assign the result of that expression 'https://github.com/codeschool-2022A/variables_and_types#begin06' to variable 'k';
-# # Print the variable 'k'
-x="k"
-print(a+b+c)
+# Assign the result of that expres
+print(a-b+c)
